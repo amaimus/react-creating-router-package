@@ -1,7 +1,7 @@
 # Create a React Router from scratch
 
 - [x] Install linter
-- [ ] Create a way to make MPAs (Multiple Page Application)
+- [x] Create a way to make MPAs (Multiple Page Application)
 - [ ] Create a way to make SPAs (Single Page Applications)
 - [ ] Being able to navigate between pages with the back button
 - [ ] Create Link component to make it declarative
