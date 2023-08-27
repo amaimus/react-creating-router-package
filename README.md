@@ -12,4 +12,3 @@
 - [x] Lazy Loading of routes
 - [x] Make an i18n with the routes
 - [x] Testing
-- [ ] Publish the package on NPM
