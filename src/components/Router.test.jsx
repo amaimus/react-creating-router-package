@@ -47,7 +47,7 @@ describe('Router', () => {
     render(
       <Router>
         <Route
-          path='/' Component={() => {
+          path='/' component={() => {
             return (
               <>
                 <h1>Home</h1>
@@ -56,7 +56,7 @@ describe('Router', () => {
             )
           }}
         />
-        <Route path='/about' Component={() => <h1>About</h1>} />
+        <Route path='/about' component={() => <h1>About</h1>} />
       </Router>
     )
 
