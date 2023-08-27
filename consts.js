@@ -1,5 +1,5 @@
 import HomePage from './src/pages/Home.jsx'
-import About from './src/pages/About.jsx'
+import AboutPage from './src/pages/About.jsx'
 
 export const routes = [
   {
@@ -8,7 +8,7 @@ export const routes = [
   },
   {
     path: '/about',
-    component: About
+    component: AboutPage
   }
 ]
 
