@@ -2,7 +2,7 @@ import './App.css'
 
 import { Router } from './components/Router.jsx'
 import NotFoundPage from './pages/NotFound.jsx'
-import { routes } from '../consts.js'
+import { routes } from '../routes'
 
 export default function App () {
   return (
