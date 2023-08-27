@@ -5,7 +5,7 @@ export default function About () {
     <>
       <h1>About</h1>
       <p>Example About page of react-router</p>
-      <Link to='/home'>Go to Home</Link>
+      <Link to='/'>Go to Home</Link>
 
     </>
   )
