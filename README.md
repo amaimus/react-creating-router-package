@@ -1,4 +1,5 @@
 # Create a React Router from scratch
+![Animation](https://github.com/amaimus/react-creating-router-package/assets/35699916/31a0dcfa-5631-4d24-a0ce-3c5db7b927f4)
 
 - [x] Install linter
 - [x] Create a way to make MPAs (Multiple Page Application)
