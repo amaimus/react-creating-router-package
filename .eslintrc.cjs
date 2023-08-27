@@ -2,6 +2,7 @@ module.exports = {
   root: true,
   env: { browser: true, es2020: true },
   extends: [
+    'standard',
     'eslint:recommended',
     'plugin:react/recommended',
     'plugin:react/jsx-runtime',
@@ -16,5 +17,9 @@ module.exports = {
       'warn',
       { allowConstantExport: true },
     ],
+    'react/prop-types': 'off',
+    indent: ["error", 2, { "SwitchCase": 1 }],
+    "jsx-quotes": ["error", "prefer-single"],
+    "react/prop-types": "off"
   },
 }
