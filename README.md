@@ -11,5 +11,5 @@
 - [x] <Route /> component to make it declarative
 - [x] Lazy Loading of routes
 - [x] Make an i18n with the routes
-- [ ] Testing
+- [x] Testing
 - [ ] Publish the package on NPM
