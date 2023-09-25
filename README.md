@@ -1,10 +1,10 @@
 # React Router from scratch
 
-**Spanish** 🟥
+🟥 **Español**
 
 Creamos una implementación similar al paquete React-Router. Permite hacer MPAs (Multiple Page Application), SPAs (Single Page Applications). Permite navegar hacia atrás en el historial, incluye el componente Link y Router para hacerlo declarativo y muestra la ruta predeterminada 404, rutas con parametros, componentes de carga Lazy, rutas i18n, y testing.
 
-**English** 🟦 
+🟦 **English**
 
 We've developed a versatile routing solution akin to the React-Router package. It enables the creation of both MPAs (Multiple Page Applications) and SPAs (Single Page Applications), offers history navigation, provides declarative components like Link and Router, includes a default 404 route, supports parameterized routes, facilitates lazy loading of components, handles i18n routes, and we applied testing.
 
